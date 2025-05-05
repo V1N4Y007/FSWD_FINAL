@@ -1,0 +1,12 @@
+{
+  "name": "employee-management-system",
+  "version": "1.0.0",
+  "description": "![Screenshot 2024-02-08 at 4 43 23 PM](https://github.com/ShivankK26/Employee-Management-System/assets/115289871/14bb5756-3a17-47e3-8051-c66a676582b8)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
